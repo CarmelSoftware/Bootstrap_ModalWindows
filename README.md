@@ -1,11 +1,11 @@
-# Bootstrap_ModalWindows
+# Bootstrap ModalWindows
 ##An example of using Bootstrap Modal Windows displaying a  Login Form with Alerts
 ####By Carmel Schvartzman
 
 This Bootstrap App code is the companion for the following Tutorial:
- http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-5-responsive-forms.html
+ http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-6-responsive-modal-windows.html
 
-<a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-5-responsive-forms.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/05/bootstrap-tutorial-lesson-6-responsive-modal-windows.html" imageanchor="1" target="_blank" style="margin-left: 1em; margin-right: 1em;">
 
 
 <img border="0" height="510" src="http://1.bp.blogspot.com/-T-WPZnSVxgM/VWWzPfL0b2I/AAAAAAAAK_U/lp-pchFXj9k/s640/1.png" width="640" />
